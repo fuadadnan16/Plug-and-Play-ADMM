@@ -1,4 +1,4 @@
-# 🌈 High Dynamic Range (HDR) Imaging using Plug-and-Play ADMM
+#  Plug-and-Play ADMM
 
 This repository presents an implementation of **Plug-and-Play ADMM (PnP-ADMM)** for image restoration, focusing on **denoising and deblurring under varying noise levels**. The project demonstrates how modern denoisers can be integrated into optimization-based imaging pipelines.
 
